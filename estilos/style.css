@@ -43,6 +43,7 @@ header > h1{
 header > p {
 
     padding-bottom: 50px;
+    font-size: 2vw;
 }
 
 header a, footer a {
